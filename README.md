@@ -1,4 +1,4 @@
-# Minishell - 42 Project (125/100) (Made together with @Eutrius)
+# Minishell - 42 Project (125/100) (Made together with [Eutrius](https://github.com/Eutrius))
 
 Minishell is a **fully functional and robust UNIX shell**, developed as part of the **42 School** curriculum. This project replicates the behavior of a real shell while deep-diving into complex C concepts such as **binary trees, enums, function pointers, bitwise operations, recursion, and more**. With a **debug mode** to visualize the execution tree and a **bulletproof implementation** free from memory leaks and segmentation faults, this Minishell is as solid as it gets. 🚀
 
